@@ -11,7 +11,7 @@
   <img align="center" alt="Tary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tary-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-original.svg">
+  
 </div>
 
   ##
