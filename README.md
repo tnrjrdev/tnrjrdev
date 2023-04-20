@@ -2,7 +2,7 @@
 <hr>
 <div align="center">
   <a href="https://github.com/TaryNascimento">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaryNascimento&show_icons=true&themedark&include_all&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaryNascimento&show_icons=true&theme=chartreuse-dark_commits&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaryNascimento&layout=compact&langs_count=7&theme=chartreuse-dark&include_all"/>
 </div>
 
