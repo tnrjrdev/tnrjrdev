@@ -1,5 +1,5 @@
 ### ("Hello World!"); 👋🏼
-## Bem-vindo(a) ao meu perfil  😁
+## Bem-vindo(a) ao meu perfil  
 
 <hr>
 <div align="center">
