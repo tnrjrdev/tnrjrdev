@@ -1,7 +1,7 @@
 ### Olá Mundo! 👋🏼
 ## Bem-vindo(a) ao meu perfil  
 
-💻 **SKILSS:**
+💻 **SKILLS:**
 <div style="display: inline_block"><br>
   <a href="#">
     <img height="28" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
