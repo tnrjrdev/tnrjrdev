@@ -3,10 +3,20 @@
 Desenvolvedor Full-Stack com expertise em Java, Python, SpringBoot e node. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Math-React" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Math-Next" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img align="center" alt="Math-Node" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Math-Nest" height="30" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img align="center" alt="Tn-React" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Tn-Next" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img align="center" alt="Tn-Node" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Tn-nest" height="30" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img align = "center" alt = "javascript" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
+  <img align = "center" alt = "apache camel" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" >
+  <img align = "center" alt = "express" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" >
+  <img align = "center" alt = "java" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
+     <img align = "center" alt = "spring" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
+     <img align = "center" alt = "hibernate" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" >
+     <img align = "center" alt = "junit5" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" >
+     <img align = "center" alt = "maven" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" >
+     <img align = "center" alt = "tomcat" heigth="30px" width="30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" >
+     <img align = "center" alt = "node" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" >
   
 </div>
   
