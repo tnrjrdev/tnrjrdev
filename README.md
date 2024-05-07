@@ -1,6 +1,6 @@
 ## Tary Junior - Desenvolvedor Full-Stack
 
-Desenvolvedor Full-Stack com expertise em React, Next, Node e Nest. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
+Desenvolvedor Full-Stack com expertise em Java, Python, SpringBoot e node. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-React" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
