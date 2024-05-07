@@ -1,6 +1,15 @@
 ## Tary Junior - Desenvolvedor Full-Stack
 
-Desenvolvedor Full-Stack com expertise em Java, Python, SpringBoot e node. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
+Desenvolvedor Full-Stack com expertise em Java, Python, SpringBoot e node. Construo aplicações backend e web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
+
+Engenheiro de ML com um histórico comprovado na aplicação de aprendizado de máquina, modelagem estatística avançada e técnicas de engenharia de dados para resolver desafios de negócios complexos.
+
+
+Habilidades Adicionais:
+
+- Práticas Ágeis: Experiência em trabalho remoto usando metodologias ágeis.
+- Resolução de Problemas: Solucionador de problemas proativo e eficiente.
+- Programação e Depuração: Proficiente em refatoração e depuração, com experiência na modernização de componentes legados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tn-React" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
