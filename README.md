@@ -1,6 +1,5 @@
 ## Tary Junior - Desenvolvedor Full-Stack
 
-Desenvolvedor Full-Stack com expertise em Java, Python, SpringBoot e node. Construo aplicações backend e web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
 
 Engenheiro de ML com um histórico comprovado na aplicação de aprendizado de máquina, modelagem estatística avançada e técnicas de engenharia de dados para resolver desafios de negócios complexos.
 
