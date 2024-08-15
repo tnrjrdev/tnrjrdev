@@ -14,11 +14,11 @@ Here you'll find some projects focused in the following technologies:
 <p>-Microsservicos</p>
 <p>-LLMs</p>
 <p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)</p>
-<p>Keras</p>
+<p>-Keras</p>
 <p>-Docker</p>
-<p>Python</p>
-<p>Flask</p>
-<p>React</p>
+<p>-Python</p>
+<p>-Flask</p>
+<p>-React</p>
 
 
 
