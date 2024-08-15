@@ -2,46 +2,26 @@
 <code>System.out.println("Welcome to my github!😆")</code>
 <hr>
 
-<p>👨‍💻 Midlevel Software Engineer at <a href="https://www.itau.com.br/" target="blank_">Itaú Unibanco</a></p>
-<p>🎓 Graduated in Systems Analysis and Development at <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
-<p>✈️ Lived in Canada (Toronto) for 3 months on an exchange program </a></p>
-<p>☁️ <a href="https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile">1x AWS Certified</a></p>
-<p>🔠 <a href="https://www.efset.org/cert/KjKPY3">C1 Advanced English Level</a></p>
-<p>📚 Studing Cloud Solutions and Event-Driven Architecture</p>
-<p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (96k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (8k+), <a href="https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug" target="_blank">Youtube</a> (4k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (23k+)</p>
+<p>👨‍💻 Midlevel Software Engineer at <a href="https://www2.recife.pe.gov.br/" target="blank_">Prefeitura da Cidade do Recife</a></p>
+<p>🎓 Graduated in Internet Systems at <a href="https://portal.unicap.br/" target="blank_">Universidade Católica de Pernambuco</a></p>
+<p>🎥 Social Media. I share informative content at my <a href="https://www.instagram.com/taryjunioor/" target="_blank">Instagram</a> and <a href="www.linkedin.com/in/tary-nascimento-r-junior" target="_blank">LinkedIn</a></p>
 <hr>
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
 Here you'll find some projects focused in the following technologies:
 <p>-Java</p> 
-<p>-Kotlin</p> 
 <p>-Spring Boot (Web, Data JPA, Security)</p>
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Microsservicos</p>
-<p>-Server-Sent Events (SSE)</p>
-<p>-WebSockets</p>
+<p>-LLMs</p>
 <p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)</p>
-<p>-Redis</p>
+<p>Keras</p>
 <p>-Docker</p>
 <p>-Kafka</p>
-<p>-AWS Bucket S3</p>
-<p>-AWS Lambda</p>
-<p>-AWS Rekognition</p>
-<p>-AWS Translate</p>
-<p>-AWS SNS</p>
-<p>-AWS SQS</p>
+<p>Python</p>
+<p>Flask</p>
+<p>React</p>
 
-<hr>
 
-And also about the following Design Patterns:
-<p>-Strategy</p>
-<p>-Factory</p>
-<p>-Singleton</p>
-<p>-Builder</p>
-<p>-Data Transfer Objects</p>
-
-<hr>
 
 Enjoy :)
 
