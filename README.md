@@ -23,7 +23,6 @@ Here you'll find some projects focused in the following technologies:
 
 
 
-Enjoy :)
 
 
     
