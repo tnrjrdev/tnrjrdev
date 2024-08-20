@@ -19,6 +19,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-Python</p>
 <p>-Flask</p>
 <p>-React</p>
+<p>-JavaScript</p>
 
 
 
