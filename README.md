@@ -22,7 +22,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-JavaScript</p>
 <p>-AWS</p>
 <p>-MySQL</p>
-<p>-Postgresql</p>
+<p>-PostgreSQL</p>
 
 
 
