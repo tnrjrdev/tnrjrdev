@@ -21,7 +21,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-React</p>
 <p>-JavaScript</p>
 <p>-AWS</p>
-<p>-MySQL</p>
+
 
 
 
