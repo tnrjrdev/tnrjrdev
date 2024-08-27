@@ -13,7 +13,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Microsservicos</p>
 <p>-LLMs</p>
-<p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)</p>
+<p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB, PostgreSQL)</p>
 <p>-Keras</p>
 <p>-Docker</p>
 <p>-Python</p>
@@ -22,7 +22,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-JavaScript</p>
 <p>-AWS</p>
 <p>-MySQL</p>
-<p>-PostgreSQL</p>
+
 
 
 
