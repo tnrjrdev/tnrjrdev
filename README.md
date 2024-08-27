@@ -13,7 +13,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Microsservicos</p>
 <p>-LLMs</p>
-<p>-scikit learn</p>
+<p>-Scikit Learn</p>
 <p>-Keras</p>
 <p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB, PostgreSQL)</p>
 <p>-Docker</p>
