@@ -19,6 +19,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-Docker</p>
 <p>-Python</p>
 <p>-Flask</p>
+<p>-Dash Plotly</p>
 <p>-React</p>
 <p>-JavaScript</p>
 <p>-AWS</p>
