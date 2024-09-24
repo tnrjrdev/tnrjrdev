@@ -11,7 +11,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-Java</p> 
 <p>-Spring Boot (Web, Data JPA, Security)</p>
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
-<p>-Microsservicos</p>
+<p>-Microsservices</p>
 <p>-LLMs</p>
 <p>-Scikit Learn</p>
 <p>-Keras</p>
