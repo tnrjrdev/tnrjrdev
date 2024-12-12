@@ -1,36 +1,13 @@
+# Tary Junior 
 
-<code>System.out.println("Welcome to my github!😆")</code>
-<hr>
+Data Scientist at @Prefeitura da Cidade do Recife.
 
-<p>👨‍💻 Midlevel Data Scientist at <a href="https://www2.recife.pe.gov.br/" target="blank_">Prefeitura da Cidade do Recife</a></p>
-<p>🎓 Graduating in Internet Systems at <a href="https://portal.unicap.br/" target="blank_">Universidade Católica de Pernambuco</a></p>
-<p>🎥 Social Media. I share informative content at my <a href="https://www.instagram.com/taryjunioor/" target="_blank">Instagram</a> and <a href="https://www.linkedin.com/in/tary-nascimento-r-junior/" target="_blank">LinkedIn</a></p>
-<hr>
+[![Linkedin Badge](https://img.shields.io/badge/-Tary%20Junior-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
+[![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:tn-junior@hotmail.com)
 
-Here you'll find some projects focused in the following technologies:
-<p>-Java</p> 
-<p>-Spring Boot (Web, Data JPA, Security)</p>
-<p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
-<p>-Microsservices</p>
-<p>-LLMs</p>
-<p>-Scikit Learn</p>
-<p>-Keras</p>
-<p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB, PostgreSQL)</p>
-<p>-Docker</p>
-<p>-Python</p>
-<p>-Flask</p>
-<p>-Dash Plotly</p>
-<p>-React</p>
-<p>-JavaScript</p>
-<p>-AWS</p>
+Enthusiast of the best web & mobile development technologies.
 
+Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
 
-
-
-
-
-
-
-
-    
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
