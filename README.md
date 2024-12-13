@@ -4,14 +4,14 @@ Data Scientist at @Prefeitura da Cidade do Recife.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tary%20Junior-005b96?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-005b96?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:tn-junior@hotmail.com)
+#
 
 Enthusiast of the best web & backend development technologies.
-
 ### Backend
 <div style = "display: inline_block"><br/>
   <div id="backend">
-     <img align = "center" alt = "python" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" >
-     <img align = "center" alt = "Flask" heigth="40px" width="60px" src = "https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=for-the-badge" >
+     <img align = "center" alt = "python" heigth="20px" width="30px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" >
+     <img align = "center" alt = "Flask" heigth="30px" width="70px" src = "https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=for-the-badge" >
      <img align = "center" alt = "java" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
      <img align = "center" alt = "spring" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
      <img align = "center" alt = "hibernate" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" >
