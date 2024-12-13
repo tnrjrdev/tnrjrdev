@@ -6,6 +6,8 @@ Data Scientist at @Prefeitura da Cidade do Recife.
 [![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-005b96?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:tn-junior@hotmail.com)
 
 Enthusiast of the best web & backend development technologies.
+
+### Backend
 <div style = "display: inline_block"><br/>
   <div id="backend">
      <img align = "center" alt = "python" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" >
@@ -19,6 +21,8 @@ Enthusiast of the best web & backend development technologies.
      <img align = "center" alt = "Next" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" >
   </div>
   <br/>
+  
+  ### Frontend
   <div id="frontend">
      <img align = "center" alt = "html5" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" >
      <img align = "center" alt = "css3" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" >
@@ -33,19 +37,23 @@ Enthusiast of the best web & backend development technologies.
     
   </div>
   <br/>
+
+  ### Database
   <div id="database">
     <img align = "center" alt = "mysql" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >
     <img align = "center" alt = "postgreesql" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" >
     <img align = "center" alt = "oracle" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" >
   </div>
   <br/>
+
+  ### infrastructure
   <div id="infra">
     <img align = "center" alt = "azure" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" >
     <img align = "center" alt = "docker" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" >
   </div>
 </div>
 
-
+#
 Passionate about education and changing people's lives through programming.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
