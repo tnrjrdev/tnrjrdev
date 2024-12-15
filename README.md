@@ -7,6 +7,7 @@ Data Scientist at @Prefeitura da Cidade do Recife.
 #
 
 Enthusiast of the best web & backend development technologies.
+
 ### Backend
 <div style = "display: inline_block"><br/>
   <div id="backend">
