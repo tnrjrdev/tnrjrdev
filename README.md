@@ -11,7 +11,7 @@ Enthusiast of the best web & backend development technologies.
 
 <div style = "display: inline_block"><br/>
   
-  ### Backend
+  ### Backend:
   <div id="backend">
      <img align = "center" alt = "python" heigth="20px" width="30px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" >
      <img align = "center" alt = "Flask" heigth="30px" width="70px" src = "https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=for-the-badge" >
@@ -25,7 +25,7 @@ Enthusiast of the best web & backend development technologies.
   </div>
   <br/>
   
-  ### Frontend
+  ### Frontend:
   <div id="frontend">
      <img align = "center" alt = "html5" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" >
      <img align = "center" alt = "css3" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" >
