@@ -8,8 +8,10 @@ Data Scientist at @Prefeitura da Cidade do Recife.
 
 Enthusiast of the best web & backend development technologies.
 
-### Backend
+
 <div style = "display: inline_block"><br/>
+  
+  ### Backend
   <div id="backend">
      <img align = "center" alt = "python" heigth="20px" width="30px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" >
      <img align = "center" alt = "Flask" heigth="30px" width="70px" src = "https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=for-the-badge" >
