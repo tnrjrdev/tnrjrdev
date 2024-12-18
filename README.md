@@ -21,7 +21,7 @@ Enthusiast of the best web & backend development technologies.
      <img align = "center" alt = "junit5" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" >
      <img align = "center" alt = "maven" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" >
      <img align = "center" alt = "node" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" >
-     <img align = "center" alt = "Next" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" >
+     <img align = "center" alt = "Next" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" >
   </div>
   <br/>
   
