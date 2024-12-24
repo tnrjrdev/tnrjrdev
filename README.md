@@ -1,9 +1,15 @@
-# Tary Junior 
+<h1>Hi There! 👋</h1>
 
-Data Scientist at @Prefeitura da Cidade do Recife.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tary%20Junior-005b96?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-005b96?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:tn-junior@hotmail.com)
+
+## My name is Tary Junior
+(Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | Python | Flask)
+
+- 👩‍💻 Software developer in the area of ​​Data Science at @[Prefeitura da Cidade do Recife](https://www2.recife.pe.gov.br/)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 #
 
 Enthusiast of the best web & backend development technologies.
