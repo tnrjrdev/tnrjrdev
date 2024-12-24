@@ -8,7 +8,7 @@
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | Python | Flask)
 
 - 👩‍💻 Software developer in the area of ​​Data Science at @[Prefeitura da Cidade do Recife](https://www2.recife.pe.gov.br/)
-- 🌐 Passionate about web development
+- 🌐 passionate about full stack development
 - 💡 Love a good challenge
 #
 
