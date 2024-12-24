@@ -8,10 +8,11 @@ Data Scientist at @Prefeitura da Cidade do Recife.
 
 Enthusiast of the best web & backend development technologies.
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,postgresql,docker,python,flask,javascript,typescript,react,next,tailwindcss,materialui)](https://skillicons.dev)
 
 <div style = "display: inline_block"><br/>
   
-  ### Backend:
+ <!-- ### Backend:
   <div id="backend">
      <img align = "center" alt = "python" heigth="20px" width="30px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" >
      <img align = "center" alt = "Flask" heigth="30px" width="70px" src = "https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=for-the-badge" >
@@ -55,7 +56,7 @@ Enthusiast of the best web & backend development technologies.
     <img align = "center" alt = "docker" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" >
   </div>
 </div>
-
+-->
 #
 Passionate about education and changing people's lives through programming.
 
