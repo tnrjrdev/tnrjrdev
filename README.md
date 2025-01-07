@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tary%20Junior-005b96?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
-[![Gmail Badge](https://img.shields.io/badge/-tn-junior@hotmail.com-005b96?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tn-junior@hotmail.com)](mailto:tn-junior@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-005b96?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tary.junior47@gmail.com)](mailto:tary.junior47@gmail.com)
 
 ## I'm Tary Junior!
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | Python | Flask)
