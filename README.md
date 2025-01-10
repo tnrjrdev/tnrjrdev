@@ -16,6 +16,8 @@
 Enthusiast of the best web & backend development technologies.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,aws,mysql,postgresql,docker,python,flask,javascript,typescript,react,next,tailwindcss,materialui)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/600px-Plotly-logo.png" alt="Dash Plotly" height="48" style="margin-left: 8px; vertical-align: middle;">
+
 
 <div style = "display: inline_block"><br/>
   
