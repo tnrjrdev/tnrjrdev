@@ -2,7 +2,6 @@
 
 <h1>Hi There! 👋</h1>
 
-[![Portifólio Badge](https://img.shields.io/badge/-Portifólio-00875f?style=flat-square&labelColor=00875f&logo=portifolio&logoColor=white&link=https://port9.vercel.app/)](https://port9.vercel.app/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Tary%20Junior-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tary.junior47@gmail.com)](mailto:tary.junior47@gmail.com)
 
