@@ -1,10 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=120&section=header"/>
+
 <h1>Hi There! 👋</h1>
 
 [![Portifólio Badge](https://img.shields.io/badge/-Portifólio-00875f?style=flat-square&labelColor=00875f&logo=portifolio&logoColor=white&link=https://port9.vercel.app/)](https://port9.vercel.app/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Tary%20Junior-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tary.junior47@gmail.com)](mailto:tary.junior47@gmail.com)
 
-## I'm Tary Junior!
+## I'm Tary Junior - Full Stack Developer! 
+
+
+
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | Python | Flask)
 
 - 👩‍💻 Software developer in the area of ​​Data Science at @[Prefeitura da Cidade do Recife](https://www2.recife.pe.gov.br/)
@@ -69,3 +74,5 @@ Enthusiast of the best web & backend development technologies.
 Passionate about education and changing people's lives through programming.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=footer"/>
