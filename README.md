@@ -19,7 +19,7 @@
 
 Enthusiast of the best web & backend development technologies.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,aws,mysql,postgresql,docker,python,flask,javascript,typescript,react,next,tailwindcss,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,maven,bash,ubuntu,docker,aws,mysql,postgresql)](https://skillicons.dev)
 
 
 <div style = "display: inline_block"><br/>
