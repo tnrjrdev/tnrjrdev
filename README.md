@@ -73,4 +73,10 @@ Passionate about education and changing people's lives through programming.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&layout=compact&hide_border=true&title_color=00875f&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=120&section=footer"/>
