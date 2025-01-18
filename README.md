@@ -22,61 +22,19 @@ Enthusiast of the best web & backend development technologies.
 
 
 <div style = "display: inline_block"><br/>
-  
- <!-- ### Backend:
-  <div id="backend">
-     <img align = "center" alt = "python" heigth="20px" width="30px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" >
-     <img align = "center" alt = "Flask" heigth="30px" width="70px" src = "https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=for-the-badge" >
-     <img align = "center" alt = "java" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
-     <img align = "center" alt = "spring" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
-     <img align = "center" alt = "hibernate" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" >
-     <img align = "center" alt = "junit5" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" >
-     <img align = "center" alt = "maven" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" >
-     <img align = "center" alt = "node" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" >
-     <img align = "center" alt = "Next" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" >
-  </div>
-  <br/>
-  
-  ### Frontend:
-  <div id="frontend">
-     <img align = "center" alt = "html5" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" >
-     <img align = "center" alt = "css3" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" >
-     <img align = "center" alt = "bootstrap" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" >
-     <img align = "center" alt = "material ui" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" >
-    <img align = "center" alt = "tailwindcss" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" >
-     <img align = "center" alt = "javascript" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
-     <img align = "center" alt = "typescript" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" >
-     <img align = "center" alt = "react" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" >
-     <img align = "center" alt = "vite" heigth="30px" width="40px" src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" >
-     <img align = "center" alt = "ionic" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" >
-    
-  </div>
-  <br/>
-
-  ### Database
-  <div id="database">
-    <img align = "center" alt = "mysql" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >
-    <img align = "center" alt = "postgreesql" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" >
-    <img align = "center" alt = "oracle" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" >
-  </div>
-  <br/>
-
-  ### infrastructure
-  <div id="infra">
-    <img align = "center" alt = "azure" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" >
-    <img align = "center" alt = "docker" heigth="30px" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" >
-  </div>
-</div>
--->
-#
-Passionate about education and changing people's lives through programming.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
 <div align="left">
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&layout=compact&hide_border=true&title_color=00875f&text_color=ffffff&bg_color=0d1117" />
   
  </div>
+  
+ 
+#
+Passionate about education and changing people's lives through programming.
+
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=120&section=footer"/>
