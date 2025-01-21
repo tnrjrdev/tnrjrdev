@@ -24,6 +24,7 @@ Enthusiast of the best web & backend development technologies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
+##
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,maven,bash,ubuntu,docker,aws,mysql,postgresql)](https://skillicons.dev)
 
 
