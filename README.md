@@ -18,18 +18,17 @@
 
 Enthusiast of the best web & backend development technologies.
 
+<div align="center">
+  <a href="https://github.com/larialbu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TN-Junior&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,maven,bash,ubuntu,docker,aws,mysql,postgresql)](https://skillicons.dev)
 
 
 <div style = "display: inline_block"><br/>
 
-<div align="left">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&layout=compact&hide_border=true&title_color=00875f&text_color=ffffff&bg_color=0d1117" />
-  
- </div>
-  
- 
 #
 Passionate about education and changing people's lives through programming.
 
