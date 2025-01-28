@@ -18,13 +18,11 @@
 
 Enthusiast of the best web & backend development technologies.
 
-<div align="center">
-  <a href="https://github.com/TN-Junior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TN-Junior&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TN-Junior&show_icons=true&bg_color=1e1e1e&title_color=4a90e2&text_color=ffffff&icon_color=4a90e2&border_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&layout=compact&bg_color=1e1e1e&title_color=4a90e2&text_color=ffffff&border_color=ffffff)
 
 ##
+
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,maven,bash,ubuntu,docker,aws,mysql,postgresql)](https://skillicons.dev)
 
 
