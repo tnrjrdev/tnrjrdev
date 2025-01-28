@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f89820&height=120&section=header"/>
 
 <h1>Hi There! 👋</h1>
 
@@ -35,4 +35,4 @@ Passionate about education and changing people's lives through programming.
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f89820&height=120&section=footer"/>
