@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-f89820?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tary.junior47@gmail.com)](mailto:tary.junior47@gmail.com)
 [![WebApp Badge](https://img.shields.io/badge/-Web%20Site-f89820?style=flat-square&logo=Linkedin&logoColor=white&link=https://port9.vercel.app/)](https://port9.vercel.app/) 
 [![DataScience Badge](https://img.shields.io/badge/-Portifólio%20Data%20Science-f89820?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/TN-Junior/Projetos-Data-Science.git)](https://github.com/TN-Junior/Projetos-Data-Science.git)
+[![Java Badge](https://img.shields.io/badge/-Portifólio%20Java-f89820?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/TN-Junior/Portifolio-Java.git)](https://github.com/TN-Junior/Portifolio-Java.git)
 
 ## I'm Tary Junior - Software Enginner Pl! 
 
