@@ -14,7 +14,6 @@
 - 🎓 Graduated in Internet Systems at [Universidade Católica de Pernambuco](https://portal.unicap.br/)
 - 🌐 passionate about backend development
 - 💡 Love a good challenge
-- 🎯 CAPTURE THE FLAG!
 #
 
 Enthusiast of the best web & backend development technologies.
@@ -26,9 +25,10 @@ Enthusiast of the best web & backend development technologies.
 -->
 
 
+
 <div style = "display: inline_block"><br/>
 
-
+🎯 CAPTURE THE FLAG!
 
 
 
