@@ -28,7 +28,7 @@ Enthusiast of the best web & backend development technologies.
 
 <div style = "display: inline_block"><br/>
 
-🎯 CAPTURE THE FLAG!
+🚩 CAPTURE THE FLAG!
 
 
 
