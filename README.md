@@ -10,7 +10,7 @@
 ## I'm Tary Junior - Software Enginner ! 
 
 
-- 👩‍💻 Software developer in the area of ​​Data Science at @[Prefeitura da Cidade do Recife](https://www2.recife.pe.gov.br/)
+- 👩‍💻 Software developer in the area of ​​Data Science at [Prefeitura da Cidade do Recife](https://www2.recife.pe.gov.br/)
 - 🎓 Graduated in Internet Systems at [Universidade Católica de Pernambuco](https://portal.unicap.br/)
 - 🌐 passionate about backend development
 - 💡 Love a good challenge
