@@ -19,7 +19,7 @@
 
 Enthusiast of the best web & backend development technologies.
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,maven,bash,ubuntu,docker,postman,aws,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,maven,bash,ubuntu,docker,postman,aws,mysql,postgresql,mongodb)](https://skillicons.dev)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TN-Junior&show_icons=true&bg_color=1e1e1e&title_color=4a90e2&text_color=ffffff&icon_color=4a90e2&border_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&layout=compact&bg_color=1e1e1e&title_color=4a90e2&text_color=ffffff&border_color=ffffff)
