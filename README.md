@@ -7,7 +7,7 @@
 [![DataScience Badge](https://img.shields.io/badge/-Portfólio%20Data%20Science-f89820?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/TN-Junior/Projetos-Data-Science.git)](https://github.com/TN-Junior/Projetos-Data-Science.git)
 [![Java Badge](https://img.shields.io/badge/-Portfólio%20Java-f89820?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/TN-Junior/Portifolio-Java.git)](https://github.com/TN-Junior/Portifolio-Java.git)
 
-## I'm Tary Junior - Software Engineer! 🚀 
+## I'm Tary Junior - Software Engineer!  
 
 - 👨‍💻 **Software Developer** in Data Science at [Prefeitura da Cidade do Recife](https://www2.recife.pe.gov.br/)
 - 🎓 **Graduated in Internet Systems** at [Universidade Católica de Pernambuco](https://portal.unicap.br/)
