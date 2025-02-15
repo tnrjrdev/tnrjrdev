@@ -13,7 +13,6 @@
 - 🎓 **Graduated in Internet Systems** at [Universidade Católica de Pernambuco](https://portal.unicap.br/)
 - 🌐 Passionate about **backend development**  
 - 💡 Love a good challenge
-- 📚 **Proficient in:** **Java** and **Python** for backend development, automation, and data analysis.
 
 ---
 
