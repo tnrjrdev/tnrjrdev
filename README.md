@@ -15,7 +15,6 @@
 
 ---
 
-### Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,flask,maven,hibernate,ubuntu,docker,aws,mysql,postgresql,mongodb)](https://skillicons.dev)
 
