@@ -2,9 +2,6 @@
 
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f89820?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
-[![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-f89820?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tary.junior47@gmail.com)](mailto:tary.junior47@gmail.com) 
-
 
 ## I'm Tary Junior - Software Engineer!  
 
@@ -21,7 +18,9 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TN-Junior&show_icons=true&bg_color=1e1e1e&title_color=4a90e2&text_color=ffffff&icon_color=4a90e2&border_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&layout=compact&bg_color=1e1e1e&title_color=4a90e2&text_color=ffffff&border_color=ffffff)-->
 
-🚩 **CAPTURE THE FLAG!**
+## 📬 You can find me on:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f89820?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tary-nascimento-r-junior/)](https://www.linkedin.com/in/tary-nascimento-r-junior/) 
+[![Gmail Badge](https://img.shields.io/badge/-tary.junior47@gmail.com-f89820?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tary.junior47@gmail.com)](mailto:tary.junior47@gmail.com) 
 
 ---
 
