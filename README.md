@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f89820&height=120&section=header"/> -->
 
-<h6 align="center">System.out.println("Welcome to my github!😆")</h6>
+<h5 align="center">System.out.println("Welcome to my github!😆")</h5>
 
 <h3 align="center">Tary Junior | Software Engineer | Building Scalable and Impactful Solutions!</h3>
 
