@@ -1,9 +1,9 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f89820&height=120&section=header"/> -->
 
-<h1>Hi There! 👋</h1>
+<h7>System.out.println("Welcome to my github!😆")</h7>
 
 
-## I'm Tary Junior - Software Engineer!  
+## Tary Junior | Software Engineer | Building Scalable and Impactful Solutions!  
 
 - 👨‍💻 **Software Developer** in Data Science @Prefeitura do Recife
 - 🎓 **Graduated in Internet Systems** @Unicap
