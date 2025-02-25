@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,flask,maven,hibernate,ubuntu,docker,aws,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,python,spring,flask,maven,hibernate,ubuntu,docker,aws,mysql,postgresql,mongodb,sklearn,tensorflow,pytorch" />
   </a>
 </p>
 
