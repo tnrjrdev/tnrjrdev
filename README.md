@@ -1,45 +1,11 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f89820&height=120&section=header"/> -->
 
-<h5 align="center">System.out.println("Welcome to my github!😆")</h5>
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
-<h3 align="center">Tary Junior | Software Engineer | Building Scalable and Impactful Solutions!</h3>
+<p>👨‍💻 Software Engineer at <a href="https://www2.recife.pe.gov.br/" target="blank_">Prefeitura do Recife</a></p>
+<p>🎓 Graduated in Internet Systems at <a href="https://portal.unicap.br/" target="blank_">Universidade Católica de Pernambuco</a></p>
+<p>🔠 <a href="https://www.efset.org/cert/KjKPY3">C1 Advanced English Level</a></p>
+<p>🎥 Social Medias <a href="https://www.instagram.com/taryjunioor/" target="_blank">Instagram</a>, and <a href="https://www.linkedin.com/in/tary-junior/" target="_blank">LinkedIn</a></p>
+<hr>
 
-<p align="center">
-  👨‍💻 Software Developer in Data Science @Prefeitura do Recife<br>
-  🎓 Graduated in Internet Systems @Unicap<br>
-  🌐 Passionate about programming, debugging, and modernizing legacy systems<br>
-  💡 Always up for a new challenge!  
-</p>
-
----
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,expressjs,python,java,spring,ubuntu,kali,docker,aws,mysql,postgresql,mongodb,sklearn,tensorflow,pytorch,django,fastapi" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/tary_junior47">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📬 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/tary-nascimento-r-junior/">
-    <img src="https://img.shields.io/badge/-LinkedIn-f89820?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tary.junior47@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-f89820?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f89820&height=120&section=footer"/> -->
+[![My Skills](https://skillicons.dev/icons?i=java,python,flask,django,spring,aws,javascript,typescript,react,angular,nodejs,express,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
