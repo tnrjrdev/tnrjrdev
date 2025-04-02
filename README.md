@@ -6,9 +6,12 @@
 
 <p>🎥 Find me on 
   <a href="https://www.instagram.com/taryjunioor/" target="_blank">Instagram</a>, 
-  <a href="https://www.linkedin.com/in/tn-junior/" target="_blank">LinkedIn</a>, and 
-  <a href="https://www.hackerrank.com/profile/tary_junior47" target="_blank">HackerRank</a>
+  <a href="https://www.linkedin.com/in/tn-junior/" target="_blank">LinkedIn</a>, 
+  <a href="https://www.hackerrank.com/profile/tary_junior47" target="_blank">HackerRank</a>, 
+  <a href="https://wa.me/5581984417364" target="_blank">WhatsApp</a>, and 
+  <a href="mailto:tary.junior47@gmail.com" target="_blank">Gmail</a>
 </p>
+
 
 <hr>
 
