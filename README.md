@@ -1,4 +1,4 @@
-# Oi! Eu sou Tary :)
+# Oi! Eu sou Tary 
 
 Tenho 20 anos. Sou desenvolvedor backend, graduado em Sistemas para Internet pela Universidade Católica de Pernambuco. Hoje, atuo na Prefeitura do Recife como Business Intelligence Engineer.
 
