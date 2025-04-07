@@ -14,7 +14,7 @@ Tenho 20 anos. Sou desenvolvedor full stack, graduado em Sistemas para Internet 
 
 ## Frameworks, Plataformas e Bibliotecas
 #### Front-end 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
 
 #### Back-end
