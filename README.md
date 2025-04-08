@@ -33,3 +33,4 @@ Tenho 20 anos. Sou engenheiro de software full stack, graduado em Sistemas para 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tn-junior/)
 
 
+
