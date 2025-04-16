@@ -18,7 +18,7 @@ Tenho 20 anos. Sou engenheiro de software full stack, graduado em Sistemas para 
 
 
 #### Back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,flask,django,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,django,spring)](https://skillicons.dev)
 
 #### Outros
 [![My Skills](https://skillicons.dev/icons?i=npm,git,terraform,docker,aws,gcp,jenkins,kubernetes,ubuntu)](https://skillicons.dev)
