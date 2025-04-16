@@ -21,7 +21,13 @@ Tenho 20 anos. Sou engenheiro de software full stack, graduado em Sistemas para 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,django,spring)](https://skillicons.dev)
 
 #### Outros
-[![My Skills](https://skillicons.dev/icons?i=npm,git,terraform,docker,aws,gcp,jenkins,kubernetes,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,git,terraform,aws,gcp,jenkins,)](https://skillicons.dev)
+
+## Engenharia de Dados & MLOps
+[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,docker,kubernetes,ubuntu,linux)](https://skillicons.dev)
+
+
+
 
 ## Bancos de dados
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,supabase,mongodb)](https://skillicons.dev)
