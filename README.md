@@ -3,8 +3,8 @@
 Tenho 20 anos. Sou engenheiro de software full stack, graduado em Sistemas para Internet pela Universidade Católica de Pernambuco. Hoje, atuo na Prefeitura do Recife como Business Intelligence Engineer.
 
 <div>
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=TN-Junior&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Junior&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=tnrjr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnrjr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 # Skills
