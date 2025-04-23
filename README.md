@@ -1,10 +1,10 @@
 # Oi! Eu sou Tary 
 
-- Engenheiro de Software com foco em soluções de alto impacto para o setor público. Ao longo de 3 anos de experiência. Na Prefeitura do Recife desenvolvi aplicações web, APIs REST e automações utilizando Python (Flask, Django), Java (Spring Boot), Angular e ferramentas de BI como Power BI e Dash Plotly que otimizaram a análise de dados estratégicos e a tomada de decisões. O trabalho da secretaria onde atuo contribuiu significativamente para a arrecadação de R$ 900 milhões destinados à educação municipal.
+- Engenheiro de Software com foco em soluções de alto impacto para o setor público. Ao longo de 3 anos de experiência. Na Prefeitura do Recife desenvolvi aplicações web, APIs REST e automações utilizando **Python (Flask, Django)**, **Java (Spring Boot)**, **Angular** e ferramentas de BI como **Power BI** e **Dash Plotly** que otimizaram a análise de dados estratégicos e a tomada de decisões. O trabalho da secretaria onde atuo contribuiu significativamente para a arrecadação de R$ 900 milhões destinados à educação municipal.
 
-- Tenho experiência com tecnologias modernas como AWS (EC2, S3, RDS), Docker, Terraform, CI/CD com GitHub Actions, além de sólida atuação com bancos de dados relacionais (MySQL, PostgreSQL, SQL Server) e NoSQL (MongoDB). Sou formado em Sistemas para Internet pela Universidade Católica de Pernambuco e atuo com metodologias ágeis como Scrum e Kanban, sempre com foco em entrega de valor, melhoria contínua e modernização de sistemas legados.
+- Tenho experiência com tecnologias modernas como **AWS (EC2, S3, RDS)**, **Docker**, **Terraform**, **CI/CD com GitHub Actions**, além de sólida atuação com bancos de dados relacionais **(MySQL, PostgreSQL, SQL Server)** e **NoSQL (MongoDB)**. Sou formado em Sistemas para Internet pela Universidade Católica de Pernambuco e atuo com metodologias ágeis como Scrum e Kanban, sempre com foco em entrega de valor, melhoria contínua e modernização de sistemas legados.
 
-*Meus diferenciais* incluem perfil analítico, forte capacidade de resolução de problemas e experiência prática em transformar dados e código em decisões inteligentes que impactam diretamente a gestão pública.
+**Meus diferenciais** incluem perfil analítico, forte capacidade de resolução de problemas e experiência prática em transformar dados e código em decisões inteligentes que impactam diretamente a gestão pública.
 
 
 
