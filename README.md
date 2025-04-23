@@ -1,36 +1,12 @@
 # Oi! Eu sou Tary 
 
-Tenho 20 anos. Sou engenheiro de software full stack, graduado em Sistemas para Internet pela Universidade Católica de Pernambuco. Hoje, atuo na Prefeitura do Recife como Business Intelligence Engineer.
+- Engenheiro de Software com foco em soluções de alto impacto para o setor público. Ao longo de 3 anos de experiência, desenvolvi aplicações web, APIs REST e automações utilizando Python (Flask, Django), Java (Spring Boot), Angular e ferramentas de BI como Power BI e Dash Plotly. Na Prefeitura do Recife, desenvolvi aplicações que otimizaram a análise de dados estratégicos e a tomada de decisões. O trabalho da secretaria onde atuo contribuiu significativamente para a arrecadação de R$ 900 milhões destinados à educação municipal.
 
-<div>
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=tnrjr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnrjr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+- Tenho experiência com tecnologias modernas como AWS (EC2, S3, RDS), Docker, Terraform, CI/CD com GitHub Actions, além de sólida atuação com bancos de dados relacionais (MySQL, PostgreSQL, SQL Server) e NoSQL (MongoDB). Sou formado em Sistemas para Internet pela Universidade Católica de Pernambuco e atuo com metodologias ágeis como Scrum e Kanban, sempre com foco em entrega de valor, melhoria contínua e modernização de sistemas legados.
 
-# Skills
-
-## Linguagens
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)
-
-## Frameworks, Plataformas e Bibliotecas
-#### Front-end 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
+*Meus diferenciais* incluem perfil analítico, forte capacidade de resolução de problemas e experiência prática em transformar dados e código em decisões inteligentes que impactam diretamente a gestão pública.
 
 
-#### Back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,django,spring)](https://skillicons.dev)
-
-#### Outros
-[![My Skills](https://skillicons.dev/icons?i=npm,git,terraform,jenkins)](https://skillicons.dev)
-
-## Engenharia de Dados & MLOps
-[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,docker,kubernetes,ubuntu,linux)](https://skillicons.dev)
-
-
-
-
-## Bancos de dados
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,supabase,mongodb)](https://skillicons.dev)
 
 
 
