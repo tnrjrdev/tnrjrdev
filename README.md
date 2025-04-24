@@ -1,6 +1,6 @@
 # Oi! Eu sou Tary 
 
-- Engenheiro de Software há 3 anos com foco em soluções de alto impacto para os setores de aprendizado de máquina, modelagem estatística e engenharia/ciência de dados para resolvar problemas complexos de negócios. 
+- Engenheiro de Software há 3 anos com foco em soluções de alto impacto com ênfase em aprendizado de máquina, modelagem estatística e engenharia/ciência de dados para resolvar problemas complexos de negócios. 
 
 - Possuo formação em Sistemas para Internet pela Universidade Católica de Pernambuco.
 
