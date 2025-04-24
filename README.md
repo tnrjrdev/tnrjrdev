@@ -2,11 +2,7 @@
 
 - Engenheiro de Software há 3 anos com foco em soluções de alto impacto para os setores de aprendizado de máquina, modelagem estatística e engenharia/ciência de dados para resolvar problemas complexos de negócios. 
 
-- Atuo na Prefeitura do Recife, onde desenvolvi dashboards interativos com Power BI e Dash Plotly, APIs REST em Java (Spring Boot) e Python (Flask/Django), além de automações com Selenium e PyAutoGUI para tomada de decisão estratégica. Contribuí diretamente com a arrecadação de R$ 900 milhões para educação municipal do Recife.
-
 - Possuo formação em Sistemas para Internet pela Universidade Católica de Pernambuco.
-
-- Veja a publicação oficial: [Arrecadação de R$ 900 milhões](https://www.instagram.com/reel/DHb-3BExDlz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Especialidades:
 
