@@ -13,6 +13,9 @@
 - **programming languages & Frameworks:** ``Java``, ``Javascript``, ``Python``, ``Spring Boot``, ``React``, ``Flask``, ``Django``
 - **Build & CI/CD:** ``Maven``, ``Jenkins``, ``GitHub Actions``, ``Docker``, ``Terraform``
 - **Testing Frameworks & Tools:** ``Selenium``, ``Pytest``, ``JUnit``, ``Mockito``, ``Postman``
+- **Data Engineering:** ``Apache Spark``, ``BigQuery``, ``Redshift``
+- **MLOps/ML Engineering:** ``Scikit-learn``, ``TensorFlow``, ``Keras``, ``XGBoost``, ``Pandas / NumPy``, ``MLflow``
+- **Databases:** ``PostgreSQL``, ``MySQL``, ``Oracle``, ``MongoDB``
 - **Cloud & DevOps:** ``AWS``
 
 
