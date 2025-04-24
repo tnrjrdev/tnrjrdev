@@ -6,7 +6,11 @@
 
 - Veja a publicação oficial: [Arrecadação de R$ 900 milhões](https://www.instagram.com/reel/DHb-3BExDlz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-- Tenho experiência com tecnologias modernas como **AWS (EC2, S3, RDS)**, **Docker**, **Terraform**, **CI/CD com GitHub Actions**, além de sólida atuação com bancos de dados relacionais **(MySQL, PostgreSQL, SQL Server)** e **NoSQL (MongoDB)**. Sou formado em Sistemas para Internet pela Universidade Católica de Pernambuco e atuo com metodologias ágeis como Scrum e Kanban, sempre com foco em entrega de valor, melhoria contínua e modernização de sistemas legados.
+- **programming languages & Frameworks:** ``Java``, ``Javascript``, ``Python``, ``Spring Boot``, ``React``, ``Flask``, ``Django``
+- **Build & CI/CD:** ``Maven``, ``Jenkins``, ``GitHub Actions``, ``Docker``, ``Terraform``
+- **Testing Frameworks & Tools:** ``Selenium``, ``Pytest``, ``JUnit``, ``Mockito``, ``Postman``
+- **Cloud & DevOps:** ``AWS``
+
 
 **Meus diferenciais** incluem perfil analítico, forte capacidade de resolução de problemas e experiência prática em transformar dados e código em decisões inteligentes que impactam diretamente a gestão pública.
 
