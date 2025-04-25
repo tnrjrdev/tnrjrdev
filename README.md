@@ -4,7 +4,7 @@
 
 - Possuo formação em Sistemas para Internet pela Universidade Católica de Pernambuco.
 
-## Especialidades:
+### Especialidades:
 
 - **programming languages & Frameworks:** ``Java``, ``Javascript``, ``Python``, ``Spring Boot``, ``React``, ``Flask``, ``Django``
 - **Build & CI/CD:** ``Maven``, ``Jenkins``, ``GitHub Actions``, ``Docker``, ``Terraform``
