@@ -12,7 +12,7 @@
 - **Data Engineering:** ``Apache Spark``, ``BigQuery``, ``Redshift``
 - **MLOps/ML Engineering:** ``Scikit-learn``, ``TensorFlow``, ``Keras``, ``XGBoost``, ``Pandas / NumPy``, ``MLflow``
 - **Databases:** ``PostgreSQL``, ``MySQL``, ``Oracle``, ``MongoDB``
-- **Cloud & DevOps:** ``AWS``
+- **Cloud & DevOps:** ``AWS`` ``GCP``
 
 
 **Meus diferenciais** incluem perfil analítico, forte capacidade de resolução de problemas e experiência prática em transformar dados e código em decisões inteligentes que impactam diretamente a gestão pública.
