@@ -1,24 +1,11 @@
-# Oi, Welcome to my Github! Eu sou Tary 
+# Tary Nascimento
 
-- Engenheiro de Software há 3 anos com foco em soluções de alto impacto com ênfase em aprendizado de máquina, modelagem estatística e engenharia/ciência de dados para resolvar problemas complexos de negócios. 
-
-- Possuo formação em Sistemas para Internet pela Universidade Católica de Pernambuco.
-
-### Especialidades:
-
-- **programming languages & Frameworks:** ``Java``, ``Javascript``, ``Python``, ``Spring Boot``, ``React``, ``Flask``, ``Django``
-- **Build & CI/CD:** ``Maven``, ``Jenkins``, ``GitHub Actions``, ``Docker``, ``Terraform``
-- **Testing Frameworks & Tools:** ``Selenium``, ``Pytest``, ``JUnit``, ``Mockito``, ``Postman``
-- **Data Engineering:** ``Apache Spark``, ``BigQuery``, ``Redshift``
-- **MLOps/ML Engineering:** ``Scikit-learn``, ``TensorFlow``, ``Keras``, ``XGBoost``, ``Pandas / NumPy``, ``MLflow``
-- **Databases:** ``PostgreSQL``, ``MySQL``, ``Oracle``, ``MongoDB``
-- **Cloud & DevOps:** ``AWS`` ``GCP``
+With over 3 years of experience in AI-driven solutions, I am proficient in developing and deploying generative artificial intelligence applications, using cutting-edge technologies in cloud environments. Currently, at the City of Recife, I work on the development of scalable and impactful Business Intelligence systems and AI applications that enable improved decision-making, unlock the potential of big data, drive innovation and solve complex challenges.
 
 
 
-**Meus diferenciais** incluem perfil analítico, forte capacidade de resolução de problemas e experiência prática em transformar dados e código em decisões inteligentes que impactam diretamente a gestão pública.
 
-
+**My strengths** include an analytical profile, strong problem-solving skills, and practical experience in transforming data and code into intelligent decisions that directly impact public management.
 
 
 
