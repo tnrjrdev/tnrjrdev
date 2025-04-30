@@ -1,6 +1,7 @@
 # Tary Nascimento
 
-Tary é Engenheiro de Software com forte foco em tecnologias inteligentes. Atualmente, está comprometido em aplicar soluções de Business Intelligence e Machine Learning, Ciência, Engenharia e inteligência de dados para apoiar decisões estratégicas. Utiliza principalmente ``AWS``, ``Python``, ``Java``, práticas de ``DevOps`` e ``MLOps``. Sinta-se à vontade para entrar em contato.
+Tary is a Software Engineer with a strong focus on intelligent technologies. Currently, he is committed to applying Business Intelligence and Machine Learning solutions, Science, Engineering and Data Intelligence to support strategic decisions. He mainly uses ``AWS``, ``Python``, ``Java``, ``DevOps`` and ``MLOps`` practices. Feel free to get in touch.
+
 
 
 
