@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:tary.junior47@gmail.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/tary.junior47@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
