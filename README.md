@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/tary-nascimento/">
     <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://linktree-app-alpha.vercel.app/">
     <img src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:tary.junior47@gmail.com">
