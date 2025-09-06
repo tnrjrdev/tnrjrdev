@@ -35,7 +35,7 @@
 ### 🟩 Latest Commit Energy
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tnrjr&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=tnrjrdev&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 <p align="center">
