@@ -12,7 +12,7 @@
 <p>🎥 Tech content creator. I share informative content at my <a href="https://www.instagram.com/tary.dev/" target="_blank">Instagram</a> ,  and <a href="https://www.linkedin.com/in/tary-nascimento/" target="_blank">LinkedIn</a> </p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,postgresql,mysql,docker,mongodb,terraform,javascript,typescript,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,gcp,postgresql,mysql,docker,mongodb,terraform,javascript,typescript,angular)](https://skillicons.dev)
 ---
 
 
