@@ -1,6 +1,3 @@
-
-<h1 align="center">Hello, I'm Tary Júnior 👋</h1>
-
 <p align="center">
   <em>Software Engineer • Software Developer • 3+ years of experience</em>
 </p>
