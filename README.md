@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Tary Júnior 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • ML Engineer</em>
+  <em>Software Engineer • Software Developer • 3+ years of experience</em>
 </p>
 
 <p align="center">
@@ -16,20 +16,17 @@
   Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tary-nascimento/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="https://linktree-app-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="mailto:tary.junior47@gmail.com">
-    <img src="https://img.shields.io/badge/-tary.junior47@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-</p>
+
 
 ---
 
+
+<p>🎓 Graduated in Internet Systems at <a href="https://portal.unicap.br/" target="blank_">Unicap</a></p>
+<p>🎥 Tech content creator. I share informative content at my <a href="https://www.instagram.com/tary.dev/" target="_blank">Instagram</a> ,  and <a href="https://www.linkedin.com/in/tary-nascimento/" target="_blank">LinkedIn</a> </p>
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,postgresql,mysql,docker,mongodb,terraform,javascript,typescript,angular)](https://skillicons.dev)
+---
 
 
 ### 🟩 Latest Commit Energy
